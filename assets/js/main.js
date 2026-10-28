@@ -1,3 +1,4 @@
 // main.js
 
-console.log("Hello, World!");
+let grid = document.querySelectorAll(".grid-container");
+let divs = document.querySelectorAll(".grid-container div");
